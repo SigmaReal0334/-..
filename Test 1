@@ -23,6 +23,10 @@ tab.newButton("Free Gamepass", "Click me!", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/sZpgTVas"))()
 end)
 
+tab.newButton("190-140 games (good luck)", "Click me!", function()
+    loadstring(game:HttpGet('https://whimper.xyz/kitty'))()
+end)
+
 local tab = DrRayLibrary.newTab("Update 2", "ImageIdHere")
 
 tab.newButton("Universal Product", "Click me!", function()
