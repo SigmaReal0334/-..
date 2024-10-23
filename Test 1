@@ -1,0 +1,90 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("Callmebacon0334 Huh", "Default")
+
+local tab = DrRayLibrary.newTab("Update 1", "ImageIdHere")
+
+tab.newButton("Speed And Jump --Rework :)", "Click me!", function()
+    loadstring(game:HttpGet("https://pastefy.app/S3qLoL3g/raw"))()
+end)
+
+tab.newButton("Infinite Yield", "Click me!", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+end)
+
+tab.newButton("Nameless Admin", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+end)
+
+tab.newButton("Fly gui", "Click me!", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+tab.newButton("Free Gamepass", "Click me!", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/sZpgTVas"))()
+end)
+
+local tab = DrRayLibrary.newTab("Update 2", "ImageIdHere")
+
+tab.newButton("Universal Product", "Click me!", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/Crazy/main/Crazy'),true))()
+end)
+
+tab.newButton("Prison life", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/g00lXploiter/g00lXploiter/main/Fe%20bypass", true))()
+end)
+
+tab.newButton("Blade Ball", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/trashscript/main/chaotic.lua"))()
+end)
+
+tab.newButton("Blox fruit", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+end)
+
+tab.newButton("Murderer mystery 2", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+end)
+
+local tab = DrRayLibrary.newTab("Update 3", "ImageIdHere")
+
+tab.newButton("Aura Roll", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Aura-Craft-V.1/main/Op%20script"))()
+end)
+
+tab.newButton("Brookhaven", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AstroXTeam/AstroXTeam/refs/heads/main/AstroX%20%20releases"))({ "https://discord.gg/Dk85KJPzvc",true,"BY:nxDredd" })
+end)
+
+tab.newButton("Lumber Tycoon", "Click me!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))("")
+end)
+
+tab.newButton("Ninja Tycoon", "Click me!", function()
+    loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()
+end)
+
+tab.newButton("Pets go", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/diepedyt/bui/refs/heads/main/BananaHubLoader.lua"))()
+end)
+
+local tab = DrRayLibrary.newTab("Update 4", "ImageIdHere")
+
+tab.newButton("Build to Survive (Free gamepass)", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Imalwibest/Imalwibest/main/wynerdV2.lua",true))()
+end)
+
+tab.newButton("Titan Training Simulator", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrustsenseDev/Zyra/main/loader.lua"))()
+end)
+
+tab.newButton("Cat Clicker", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nikoladhima/Cat-Clicker/refs/heads/main/Cat-Clicker%20Source"))()
+end)
+
+tab.newButton("Build A Boat For Treasure", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/catblox1346/BBHscript/main/owo?token=$(date%20+%s)"))()
+end)
+
+tab.newButton("Every Second You Get +1 Jump Power", "Click me!", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/LTXLITE/main/README.md'),true))()
+end)
