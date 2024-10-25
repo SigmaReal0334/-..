@@ -92,3 +92,83 @@ end)
 tab.newButton("Every Second You Get +1 Jump Power", "Click me!", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/LTXLITE/main/README.md'),true))()
 end)
+
+ tab = DrRayLibrary.newTab("Update 5", "ImageIdHere")
+
+tab.newButton("Arsenal", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nickyangtpe/Vapa-v2/refs/heads/main/Vapav2-Arsenal.lua", true))()
+end)
+
+tab.newButton("Doors", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+end)
+
+tab.newButton("Build The Boat For The Treasure", "Click me!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/catblox1346/BBHscript/main/owo?token=$(date%20+%s)"))()
+end)
+
+tab.newButton("Meme Sea", "Click me!", function()
+    loadstring(game:HttpGet("https://discord0000.xyz/scripts/meme_sea"))()
+end)
+
+tab.newButton("Da Hood", "Click me!", function()
+    if not Game:IsLoaded() then Game.Loaded:Wait() end --> DO NOT DELETE
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))() --> DO NOT DELETE
+
+
+
+--> Silent Aim | Global Table <--
+
+getgenv().Silent = {
+
+    Settings = {
+
+        Toggled = true,
+
+        AimPart = "HumanoidRootPart", --> HumanoidRootPart, UpperTorso, LowerTorso, Head <-- Main Parts
+
+        HitChance = 100, 
+
+        
+
+        Prediction = {
+
+            Enabled = true,
+
+            Horizontal = 0.13745, --> X, Z
+
+            Vertical = 0.13745, --> Y
+
+        },
+
+       
+
+        Circle = {
+
+            Visible = true,
+
+            Color = Color3.fromRGB(255, 255, 255),
+
+            Transparency = 1,
+
+            Thickness = 1.5,
+
+            NumSides = 1000,
+
+            Radius = 100, --> Change Circle Size Here
+
+            Filled = false,
+
+        },
+
+    },
+
+}
+
+
+
+-- Basic Silent-Aim [ DAHOOD GAMES ]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox/Scripts/Basic%20Silent-Aim", true))()
+end)
